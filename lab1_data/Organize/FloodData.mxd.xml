@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+				<pubdate>20040401</pubdate>
+				<serinfo>
+					<sername>ESRI Virtual Campus course</sername>
+					<issue>2004</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+				</pubinfo>
+				<othercit>ESRI Virtual Campus 2004</othercit>
+				<title Sync="TRUE">FloodData.mxd</title><ftname Sync="TRUE">FloodData.mxd</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This map document shows data to be used for a Fllood database.  It was created for the ESRI Virtual Campus and is intended for educational purposes only (see Use constraints). This data should not be used for any purpose other than that for which it was intended.</abstract>
+			<purpose>The data and related materials are made available through ESRI Virtual Campus (http:\\campus.esri.com) and are intended for educational purposes only (see Use Constraints).</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2004</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<accconst>None</accconst>
+		<useconst>
+THE DATA AND RELATED MATERIALS MAY CONTAIN SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET USER'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE USER SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+THE DATA AND RELATED MATERIALS ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+				</cntorgp>
+				<cntpos>ESRI Virtual Campus</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>8:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
+				<cntinst>
+In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded.
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.
+</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native><spdom><bounding><westbc Sync="TRUE">REQUIRED: Western-most coordinate of the limit of coverage expressed in longitude.</westbc><eastbc Sync="TRUE">REQUIRED: Eastern-most coordinate of the limit of coverage expressed in longitude.</eastbc><northbc Sync="TRUE">REQUIRED: Northern-most coordinate of the limit of coverage expressed in latitude.</northbc><southbc Sync="TRUE">REQUIRED: Southern-most coordinate of the limit of coverage expressed in latitude.</southbc></bounding></spdom><keywords><theme><themekey>boundaries</themekey><themekey>society</themekey><themekey>flood</themekey></theme></keywords><natvform Sync="TRUE">Map</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srctime>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">F:\Working\ESRICourses\LearnArcGIS\Module4\Data\WorkingData\Organize\FloodData.mxd</srcused><date Sync="TRUE">20061129</date><time Sync="TRUE">12094400</time></procstep></lineage>
+	</dataqual>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+				<cntinst>
+In the United States, contact the ESRI Telesales staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.
+</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>See use constraints.</distliab>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20061130</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+					<cntper>ESRI Virtual Campus</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20061129</CreaDate><CreaTime>12094400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20040510</SyncDate><SyncTime>17434100</SyncTime><ModDate>20061130</ModDate><ModTime>16482800</ModTime><MetaID>{CB6A382C-E5A4-4170-8491-8253079B3066}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">FloodData.mxd</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">009</orDesc><linkage Sync="TRUE">file://\\rushmore\webcourses\Working\ESRICourses\LearnArcGIS\Module4\Data\DataDownload\VirtualCampus\LearnArcGIS\Organize\FloodData.mxd</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran><distorFormat><formatName Sync="TRUE">Map</formatName></distorFormat></distributor></distInfo><mdDateSt Sync="TRUE">20061130</mdDateSt></metadata>
