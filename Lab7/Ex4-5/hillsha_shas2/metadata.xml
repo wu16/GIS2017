@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{7069F78B-0444-4693-9B78-0A6AD94D9D22}</MetaID><CreaDate>20100409</CreaDate><CreaTime>16511000</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="D:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\HillShade" Date="20100409" Time="165110">HillShade shasta_filter D:\course_2010GIS\lab10\L10\Ex4-5\HillSha_shas2 315 25 SHADOWS 1</Process></lineage></DataProperties></Esri></metadata>
