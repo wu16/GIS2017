@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>REQUIRED: The name of an organization or individual that developed the data set.</origin>
+				<pubdate>REQUIRED: The date when the data set is published or otherwise made available for release.</pubdate>
+				<title Sync="TRUE">distance</title>
+				<geoform Sync="TRUE">raster digital data</geoform>
+				<onlink Sync="TRUE">\\TROGDOR\C\Documents and Settings\Laskar\My Documents\To_Vic\distance</onlink>
+				<ftname Sync="TRUE">distance</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Distance From Shore.  Euclidean distance from the south shore of Flores Island, in meters.</abstract>
+			<purpose>RSF habitat model layer, David Laskin M.GIS</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<mdattim>
+					<sngdate>
+						<caldate>2007</caldate>
+					</sngdate>
+				</mdattim>
+			</timeinfo>
+			<current>REQUIRED: The basis on which the time period of content information is determined.</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-126.317463</westbc>
+				<eastbc Sync="TRUE">-126.046513</eastbc>
+				<northbc Sync="TRUE">49.398076</northbc>
+				<southbc Sync="TRUE">49.229427</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">976938.999267</leftbc><rightbc Sync="TRUE">996608.999259</rightbc><bottombc Sync="TRUE">468171.736483</bottombc><topbc Sync="TRUE">486861.736475</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt>
+				<themekey>Distance From Shore</themekey>
+			</theme>
+			<place>
+				<placekey>Cow Bay</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>Please do not distribute</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>David Laskin</cntper>
+					<cntorg>University of Calgary</cntorg>
+				</cntperp>
+				<cntpos>Research Technician</cntpos>
+				<cntvoice>403-899-3283</cntvoice>
+				<cntemail>dnlaskin@ucalgary.ca</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+		<natvform Sync="TRUE">Raster Dataset</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\Laskar\LOCALS~1\Temp\xml19.tmp</srcused><date Sync="TRUE">20070409</date><time Sync="TRUE">15210300</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Raster</direct>
+		<rastinfo>
+			<rasttype Sync="TRUE">Grid Cell</rasttype>
+			<rowcount Sync="TRUE">1869</rowcount>
+			<colcount Sync="TRUE">1967</colcount>
+			<vrtcount Sync="TRUE">1</vrtcount>
+			<rastxsz Sync="TRUE">10.000000</rastxsz><rastysz Sync="TRUE">10.000000</rastysz><rastbpp Sync="TRUE">32</rastbpp><rastorig Sync="TRUE">Upper Left</rastorig><rastcmap Sync="TRUE">FALSE</rastcmap><rastcomp Sync="TRUE">Default</rastcomp><rastband Sync="TRUE">1</rastband><rastdtyp Sync="TRUE">matrix values</rastdtyp><rastplyr Sync="TRUE">TRUE</rastplyr><rastifor Sync="TRUE">ESRI GRID</rastifor></rastinfo>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">row and column</plance>
+					<coordrep>
+						<absres Sync="TRUE">10.000000</absres>
+						<ordres Sync="TRUE">10.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn><albers><stdparll Sync="TRUE">50.000000</stdparll><stdparll Sync="TRUE">58.500000</stdparll><longcm Sync="TRUE">-126.000000</longcm><latprjo Sync="TRUE">45.000000</latprjo><feast Sync="TRUE">1000000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></albers></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_Albers</projcsn></cordsysn></horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">14.655</transize>
+					<dssize Sync="TRUE">14.655</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20070409</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+					<city>REQUIRED: The city of the address.</city>
+					<state>REQUIRED: The state or province of the address.</state>
+					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+				</cntaddr>
+				<cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20140914</CreaDate><CreaTime>10015800</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20070409</SyncDate><SyncTime>15210500</SyncTime><ModDate>20070409</ModDate><ModTime>15232600</ModTime><ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\OWNER-VAIO\C\GreyWhales\distance</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="C:\GrayWhales\distance" dest="\\OWNER-VAIO\C\GreyWhales\distance" date="20140914" time="10015800"></copy></copyHistory></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">distance</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="002"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">976938.999267</westBL><eastBL Sync="TRUE">996608.999259</eastBL><northBL Sync="TRUE">486861.736475</northBL><southBL Sync="TRUE">468171.736483</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-126.317463</westBL><eastBL Sync="TRUE">-126.046513</eastBL><northBL Sync="TRUE">49.398076</northBL><southBL Sync="TRUE">49.229427</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\TROGDOR\C\Documents and Settings\Laskar\My Documents\To_Vic\distance</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">14.655</transSize></distorTran><distorFormat><formatName Sync="TRUE">Raster Dataset</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_Albers</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><GridSpatRep><numDims Sync="TRUE">2</numDims><cellGeo><CellGeoCd Sync="TRUE" value="002"></CellGeoCd></cellGeo><tranParaAv Sync="TRUE">1</tranParaAv><axDimProps><Dimen><dimName><DimNameTypCd Sync="TRUE" value="002"></DimNameTypCd></dimName><dimSize Sync="TRUE">1967</dimSize><dimResol><value Sync="TRUE">10</value><uom><UomLength><uomName Sync="TRUE">Meter</uomName><conversionToISOstandardUnit Sync="TRUE">1 Meter = 1 Meter(s)</conversionToISOstandardUnit></UomLength></uom></dimResol></Dimen><Dimen><dimName><DimNameTypCd Sync="TRUE" value="001"></DimNameTypCd></dimName><dimSize Sync="TRUE">1869</dimSize><dimResol><value Sync="TRUE">10</value><uom><UomLength><uomName Sync="TRUE">Meter</uomName><conversionToISOstandardUnit Sync="TRUE">1 Meter = 1 Meter(s)</conversionToISOstandardUnit></UomLength></uom></dimResol></Dimen></axDimProps></GridSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20070409</mdDateSt></metadata>
